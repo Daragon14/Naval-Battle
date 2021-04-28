@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\1ºano\2ºSemestre\Laboratório de Programação\NavalBattle\Game.cpp(234,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NavalBattle.vcxproj -> C:\Users\jorge\OneDrive\Documentos\Eu\Universidade\1ºano\2ºSemestre\Laboratório de Programação\NavalBattle\Debug\NavalBattle.exe
